@@ -1,0 +1,16 @@
+Porto Alegre - Canoas 15.3
+Canoas - Esteio 11.7
+Esteio - Sapucaia do Sul 3.2
+Sapucaia do Sul - São Leopoldo 6.6
+São Leopoldo - Novo Hamburgo 8.9
+Novo Hamburgo - Ivoti 7.7
+Ivoti - Dois Irmãos 9.6
+Dois Irmãos - Nova Petrópolis 40.4
+Nova Petrópolis - Gramado 34.6
+Novo Hambugo - Sapiranga 13.2
+Sapiranga - Parobé 17.5
+Parobé - Gramado 48.1
+Porto Alegre - Gravataí 30.8
+Gravataí - Taquara 45.4
+Taquara - Parobé 6.0
+São Leopoldo - Gramado 8.9

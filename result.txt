@@ -1,0 +1,6 @@
+A caminho com menor saltos é Porto Alegre , Gravataí , Taquara , Parobé , Gramado 
+A caminho com menor distança é Porto Alegre , Canoas , Esteio , Sapucaia do Sul , São Leopoldo , Gramado 
+Custo melhor ruta: 45,700000, Custo segunda melhor ruta 130,300000, Distança melhor ruta 31,761500, Distança segunda ruta 90,558500 
+Caminho: Porto Alegre , Canoas , Esteio , Sapucaia do Sul , São Leopoldo , Gramado 
+Caminho: Porto Alegre , Gravataí , Taquara , Parobé , Gramado 
+Caminho: Porto Alegre , Canoas , Esteio , Sapucaia do Sul , São Leopoldo , Novo Hamburgo , Ivoti , Dois Irmãos , Nova Petrópolis , Gramado 
